@@ -14,6 +14,8 @@ Basically tl;dr:
 5. ???
 6. Profit
 
+# Epilogue 
+
 I don't claim that this code works 100%. I still need to see if there are any Windows 9x specific install quirks (to be honest I haven't looked much into it I just read a @Foone tweet that said that something like this hadn't been made yet and I wanted to try my hand at it.)
 
 If you're reading this, @Foone, you do cool stuff and I like your tweets.
